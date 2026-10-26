@@ -30,7 +30,7 @@ import type Database from 'better-sqlite3'
  * Bottleneck, while CommonJS, hasn't had a release in years.
  */
 
-const USER_AGENT = 'BiodiversityExplorer/0.1 (https://github.com/your-username/biodiversity-explorer)'
+const USER_AGENT = 'BiodiversityExplorer/0.1 (https://github.com/hetch-beats/biodiversity-explorer)'
 
 const keepAliveAgent = new https.Agent({ keepAlive: true, maxSockets: 8 })
 

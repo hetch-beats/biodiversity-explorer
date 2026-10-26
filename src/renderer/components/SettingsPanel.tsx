@@ -380,7 +380,7 @@ export default function SettingsPanel({ onClose }: SettingsPanelProps): JSX.Elem
               {checking ? 'Checking…' : updateMsg ?? 'Check for updates'}
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/hetch-beats/biodiversity-explorer"
               target="_blank"
               rel="noreferrer"
               className="mt-3 inline-flex items-center gap-1 text-xs underline text-[rgb(var(--accent))]"

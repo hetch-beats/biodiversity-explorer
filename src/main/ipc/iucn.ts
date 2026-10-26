@@ -5,7 +5,7 @@ const IUCN_API_BASE = 'https://api.iucnredlist.org/api/v4'
 const REQUEST_TIMEOUT_MS = 8000
 
 // Same placeholder pattern as gbif.ts / wikipedia.ts.
-const USER_AGENT = 'BiodiversityExplorer/0.1 (https://github.com/your-username/biodiversity-explorer)'
+const USER_AGENT = 'BiodiversityExplorer/0.1 (https://github.com/hetch-beats/biodiversity-explorer)'
 
 export type IucnLookupResult =
   | { ok: true; status: ConservationStatus | null; categoryCode: string | null }
