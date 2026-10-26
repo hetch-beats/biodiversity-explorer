@@ -1,0 +1,289 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * 11 curated themes (see biodiversity-explorer-phase2-spec.md, "Aesthetics —
+ * research rationale"). Design rule from that research: every theme's large
+ * surfaces (backgrounds/panels/borders) stay low-saturation at medium
+ * brightness regardless of hue family — Wilms & Oberfeld (2018) found
+ * saturated+bright colors reliably raise arousal independent of hue, while
+ * low-saturation/medium-brightness colors read as calm. Saturation is spent
+ * only on --accent, where drawing the eye (buttons, active states, status)
+ * is actually wanted. 'daylight' is the default (see uiStore.ts) but every
+ * theme below is a first-class citizen, not a variant.
+ */
+/*
+ * Design tokens (Phase 2c polish) — one spacing / radius / type scale shared
+ * by sheets, the Settings modal, buttons, chips and globe overlays. Theme
+ * independent (palettes below only change color). All rem-based, so the
+ * Settings font-size option scales them with the text. Exposed to Tailwind in
+ * tailwind.config.js: rounded-sm/md/lg/xl, h-control, p-inset/gutter, text-3xs…
+ */
+:root {
+  --radius-sm: 0.375rem; /* tiny insets: thumbnails-in-buttons, kbd */
+  --radius-md: 0.625rem; /* controls: buttons, inputs, list rows, overlays */
+  --radius-lg: 0.875rem; /* cards and grouped sections */
+  --radius-xl: 1.125rem; /* sheets' floating parts, modal */
+  --control-h: 2.25rem; /* buttons, inputs, icon buttons — one height everywhere */
+  --space-inset: 0.75rem; /* overlay / card inner padding, gap to globe edge */
+  --space-gutter: 1rem; /* sheet & modal content padding */
+  --shadow-overlay: 0 1px 2px rgb(0 0 0 / 0.06), 0 4px 12px rgb(0 0 0 / 0.08);
+}
+
+:root {
+  /* daylight — default */
+  --bg-primary: 250 251 253;
+  --bg-secondary: 240 242 247;
+  --bg-elevated: 255 255 255;
+  --text-primary: 15 20 30;
+  --text-secondary: 90 99 115;
+  --border: 220 225 233;
+  --accent: 37 99 235;
+  --accent-contrast: 255 255 255;
+}
+
+:root[data-theme='obsidian'] {
+  --bg-primary: 12 14 19;
+  --bg-secondary: 18 21 29;
+  --bg-elevated: 24 28 38;
+  --text-primary: 230 235 243;
+  --text-secondary: 150 159 176;
+  --border: 40 46 61;
+  --accent: 96 165 250;
+  --accent-contrast: 8 12 20;
+}
+
+:root[data-theme='midnight'] {
+  /* Near-black OLED variant — darker than obsidian, with a punchier accent
+     to stay visible against true black. */
+  --bg-primary: 4 5 8;
+  --bg-secondary: 9 11 16;
+  --bg-elevated: 14 17 24;
+  --text-primary: 225 230 240;
+  --text-secondary: 130 140 158;
+  --border: 28 33 46;
+  --accent: 120 140 255;
+  --accent-contrast: 6 7 11;
+}
+
+:root[data-theme='canopy'] {
+  /* Nature/forest — a deliberate fit for a biodiversity app; muted green
+     undertone rather than a vivid green wash (see saturation rule above). */
+  --bg-primary: 12 17 15;
+  --bg-secondary: 18 25 22;
+  --bg-elevated: 24 32 28;
+  --text-primary: 226 236 229;
+  --text-secondary: 148 168 156;
+  --border: 40 54 46;
+  --accent: 74 194 132;
+  --accent-contrast: 8 15 11;
+}
+
+:root[data-theme='ember'] {
+  --bg-primary: 19 13 12;
+  --bg-secondary: 27 19 18;
+  --bg-elevated: 35 25 23;
+  --text-primary: 240 231 229;
+  --text-secondary: 172 152 148;
+  --border: 58 42 39;
+  --accent: 224 96 74;
+  --accent-contrast: 15 8 7;
+}
+
+:root[data-theme='tide'] {
+  --bg-primary: 10 15 20;
+  --bg-secondary: 15 22 29;
+  --bg-elevated: 20 29 38;
+  --text-primary: 224 234 242;
+  --text-secondary: 140 160 178;
+  --border: 34 48 62;
+  --accent: 62 158 214;
+  --accent-contrast: 6 11 15;
+}
+
+:root[data-theme='amethyst'] {
+  --bg-primary: 16 13 20;
+  --bg-secondary: 23 19 29;
+  --bg-elevated: 30 25 38;
+  --text-primary: 232 226 240;
+  --text-secondary: 160 148 176;
+  --border: 48 40 62;
+  --accent: 164 110 214;
+  --accent-contrast: 12 9 15;
+}
+
+:root[data-theme='savanna'] {
+  /* Muted gold rather than pure yellow — pure yellow reads poorly on a dark
+     surface and pushes toward the high-arousal end the research flags. */
+  --bg-primary: 18 16 11;
+  --bg-secondary: 26 23 16;
+  --bg-elevated: 34 30 21;
+  --text-primary: 238 233 220;
+  --text-secondary: 168 158 132;
+  --border: 55 48 34;
+  --accent: 214 172 74;
+  --accent-contrast: 15 13 8;
+}
+
+:root[data-theme='sunset'] {
+  --bg-primary: 19 14 11;
+  --bg-secondary: 27 20 16;
+  --bg-elevated: 35 26 21;
+  --text-primary: 240 230 222;
+  --text-secondary: 172 150 134;
+  --border: 58 44 34;
+  --accent: 224 128 68;
+  --accent-contrast: 15 9 6;
+}
+
+:root[data-theme='blossom'] {
+  --bg-primary: 19 13 16;
+  --bg-secondary: 27 19 23;
+  --bg-elevated: 35 25 30;
+  --text-primary: 240 228 234;
+  --text-secondary: 172 148 160;
+  --border: 58 40 50;
+  --accent: 224 104 158;
+  --accent-contrast: 15 7 11;
+}
+
+:root[data-theme='glacier'] {
+  --bg-primary: 10 17 18;
+  --bg-secondary: 15 25 26;
+  --bg-elevated: 20 33 34;
+  --text-primary: 222 238 240;
+  --text-secondary: 138 168 172;
+  --border: 32 54 56;
+  --accent: 70 196 208;
+  --accent-contrast: 6 13 14;
+}
+
+:root[data-contrast='high'] {
+  --border: 130 138 150;
+  --text-secondary: 180 188 200;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Settings → Font size. All type and spacing tokens are rem-based
+   (tailwind.config.js), so changing the root size scales the interface as a
+   whole. This setting existed before but had no CSS behind it — it did nothing. */
+html {
+  font-size: 16px;
+}
+:root[data-font-size='small'] {
+  font-size: 14px;
+}
+:root[data-font-size='large'] {
+  font-size: 18px;
+}
+
+body {
+  background-color: rgb(var(--bg-primary));
+  color: rgb(var(--text-primary));
+  /* Swapped from monospace (Cascadia Code) to a clean sans-serif per the
+     Phase 2 spec — Inter first, with a native system-font fallback stack so
+     text still renders cleanly before/without the web font. */
+  font-family:
+    'Inter',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*
+ * Scrollbars: slim, rounded, themed — a thumb floating in a transparent track,
+ * inset from the edge, that darkens on hover. Chromium ignores every
+ * ::-webkit-scrollbar rule on an element that sets the standard
+ * `scrollbar-width` / `scrollbar-color` properties (Chrome 121+), so never use
+ * those here — that's what made Settings fall back to the default OS bar.
+ */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(var(--text-secondary) / 0.35);
+  border: 3px solid transparent; /* inset the thumb from the track edges */
+  background-clip: padding-box;
+  border-radius: 999px;
+  min-height: 32px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(var(--text-secondary) / 0.6);
+}
+::-webkit-scrollbar-thumb:active {
+  background-color: rgb(var(--accent) / 0.7);
+}
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--accent));
+  outline-offset: 2px;
+}
+
+/* Colorblind-safe mode nudges accent/status hues toward the Okabe-Ito
+   palette and is combined with text/icon labels (never color alone). */
+:root[data-colorblind='true'] {
+  --accent: 230 159 0;
+}
+
+/* Slimmer variant for dense lists and sheets (kept as a webkit rule — see above). */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Small, reusable entrance animations — used by the sidebar's expanded
+   content, the species panel, and slide-over panels (Settings) so state
+   changes read as a transition rather than an instant swap. Kept as plain
+   CSS rather than a dependency (e.g. framer-motion): these are one-shot
+   entrance effects, not physics-driven interactions, so Tailwind's
+   arbitrary-value `animate-[...]` utilities referencing these are enough. */
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    transform: translateX(12px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}

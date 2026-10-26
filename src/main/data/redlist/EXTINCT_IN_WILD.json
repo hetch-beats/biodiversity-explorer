@@ -1,0 +1,188 @@
+{
+  "status": "EXTINCT_IN_WILD",
+  "totalCount": 36,
+  "fetchedAt": "2026-09-30T16:52:46.294Z",
+  "source": "IUCN Red List via GBIF",
+  "taxa": [
+    {
+      "scientificName": "Todiramphus cinnamominus",
+      "commonName": "Micronesian Kingfisher",
+      "gbifKey": 2475795
+    },
+    {
+      "scientificName": "Mitu mitu",
+      "commonName": "Alagoas Curassow",
+      "gbifKey": 2482280
+    },
+    {
+      "scientificName": "Partula nodosa",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783053
+    },
+    {
+      "scientificName": "Partula suturalis",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 7342675
+    },
+    {
+      "scientificName": "Partula mooreana",
+      "commonName": "Moorean Viviparous Tree Snail",
+      "gbifKey": 5783011
+    },
+    {
+      "scientificName": "Partula mirabilis",
+      "commonName": "Moorean Viviparous Tree Snail",
+      "gbifKey": 5783024
+    },
+    {
+      "scientificName": "Partula varia",
+      "commonName": "Variable Huahine tree snail",
+      "gbifKey": 5783037
+    },
+    {
+      "scientificName": "Partula rosea",
+      "commonName": "Rosy tree snail",
+      "gbifKey": 5783060
+    },
+    {
+      "scientificName": "Partula hebe",
+      "commonName": "Rose-tipped Partula Snail",
+      "gbifKey": 5783046
+    },
+    {
+      "scientificName": "Zenaida graysoni",
+      "commonName": "Socorro Dove",
+      "gbifKey": 2495357
+    },
+    {
+      "scientificName": "Cyanopsitta spixii",
+      "commonName": "Spix's Macaw",
+      "gbifKey": 2479185
+    },
+    {
+      "scientificName": "Aylacostoma chloroticum",
+      "commonName": null,
+      "gbifKey": 5782688
+    },
+    {
+      "scientificName": "Aylacostoma stigmaticum",
+      "commonName": null,
+      "gbifKey": 5782687
+    },
+    {
+      "scientificName": "Aylacostoma guaraniticum",
+      "commonName": null,
+      "gbifKey": 5782686
+    },
+    {
+      "scientificName": "Leptogryllus deceptor",
+      "commonName": "Oahu Deceptor Bush Cricket",
+      "gbifKey": 1717515
+    },
+    {
+      "scientificName": "Corvus hawaiiensis",
+      "commonName": "Hawaiian Crow",
+      "gbifKey": 2482517
+    },
+    {
+      "scientificName": "Thermosphaeroma thermophilum",
+      "commonName": "Socorro Isopod",
+      "gbifKey": 2207529
+    },
+    {
+      "scientificName": "Nectophrynoides asperginis",
+      "commonName": "Kihansi Spray Toad",
+      "gbifKey": 2422551
+    },
+    {
+      "scientificName": "Anaxyrus baxteri",
+      "commonName": "Wyoming Toad",
+      "gbifKey": 2422894
+    },
+    {
+      "scientificName": "Elaphurus davidianus",
+      "commonName": "Père David's Deer",
+      "gbifKey": 2440938
+    },
+    {
+      "scientificName": "Cyprinodon alvarezi",
+      "commonName": null,
+      "gbifKey": 2347879
+    },
+    {
+      "scientificName": "Cyprinodon longidorsalis",
+      "commonName": "La Palma Pupfish",
+      "gbifKey": 2347890
+    },
+    {
+      "scientificName": "Cyprinodon veronicae",
+      "commonName": "Charco Palma Pupfish",
+      "gbifKey": 2347891
+    },
+    {
+      "scientificName": "Xiphophorus couchianus",
+      "commonName": "Monterrey Platyfish",
+      "gbifKey": 2350197
+    },
+    {
+      "scientificName": "Xiphophorus meyeri",
+      "commonName": "Marbled Swordtail",
+      "gbifKey": 2350205
+    },
+    {
+      "scientificName": "Skiffia francesae",
+      "commonName": "Golden Skiffia",
+      "gbifKey": 2347690
+    },
+    {
+      "scientificName": "Allotoca goslinei",
+      "commonName": "Banded Allotoca",
+      "gbifKey": 2347664
+    },
+    {
+      "scientificName": "Acipenser dabryanus",
+      "commonName": "Dabry's Sturgeon",
+      "gbifKey": 2402119
+    },
+    {
+      "scientificName": "Oncorhynchus kawamurae",
+      "commonName": null,
+      "gbifKey": 5961610
+    },
+    {
+      "scientificName": "Notropis amecae",
+      "commonName": "Ameca Shiner",
+      "gbifKey": 2362336
+    },
+    {
+      "scientificName": "Scardinius racovitzai",
+      "commonName": "Thermal Rudd",
+      "gbifKey": 2362661
+    },
+    {
+      "scientificName": "Cryptoblepharus egeriae",
+      "commonName": "Christmas Island Blue-tailed Shinning-skink",
+      "gbifKey": 2463625
+    },
+    {
+      "scientificName": "Lepidodactylus listeri",
+      "commonName": "Lister’s Gecko",
+      "gbifKey": 5221634
+    },
+    {
+      "scientificName": "Partula garrettii",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 7640477
+    },
+    {
+      "scientificName": "Partula navigatoria",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783064
+    },
+    {
+      "scientificName": "Esmaeilius persicus",
+      "commonName": "Maharlo Killifish",
+      "gbifKey": 11625911
+    }
+  ]
+}

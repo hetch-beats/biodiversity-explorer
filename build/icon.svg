@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Biodiversity Explorer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f8f6b"/>
+      <stop offset="1" stop-color="#155e75"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <g fill="#ffffff">
+    <path d="M127,146 H187 A60,60 0 0 1 187,266 H127 Z"/>
+    <path d="M127,230 H191 A68,68 0 0 1 191,366 H127 Z"/>
+    <rect x="285" y="146" width="40" height="220"/>
+    <rect x="285" y="146" width="100" height="40"/>
+    <rect x="285" y="236" width="86" height="40"/>
+    <rect x="285" y="326" width="100" height="40"/>
+  </g>
+  <g fill="url(#bg)">
+    <path d="M167,186 H187 A20,20 0 0 1 187,226 H167 Z"/>
+    <path d="M167,270 H191 A28,28 0 0 1 191,326 H167 Z"/>
+  </g>
+</svg>

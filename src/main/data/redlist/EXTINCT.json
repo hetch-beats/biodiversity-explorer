@@ -1,0 +1,2508 @@
+{
+  "status": "EXTINCT",
+  "totalCount": 806,
+  "fetchedAt": "2026-09-30T16:52:46.166Z",
+  "source": "IUCN Red List via GBIF",
+  "taxa": [
+    {
+      "scientificName": "Geonemertes rodericana",
+      "commonName": null,
+      "gbifKey": 5782033
+    },
+    {
+      "scientificName": "Spirobolellus praslinus",
+      "commonName": null,
+      "gbifKey": 10673475
+    },
+    {
+      "scientificName": "Eucarlia alluaudi",
+      "commonName": null,
+      "gbifKey": 6189555
+    },
+    {
+      "scientificName": "Orthomorpha crinita",
+      "commonName": null,
+      "gbifKey": 6190605
+    },
+    {
+      "scientificName": "Dicrogonatus gardineri",
+      "commonName": "Gardiner's Giant Mite",
+      "gbifKey": 10766101
+    },
+    {
+      "scientificName": "Metazalmoxis ferruginea",
+      "commonName": null,
+      "gbifKey": 8026252
+    },
+    {
+      "scientificName": "Hirstienus nanus",
+      "commonName": null,
+      "gbifKey": 6903079
+    },
+    {
+      "scientificName": "Peromona erinacea",
+      "commonName": null,
+      "gbifKey": 6903193
+    },
+    {
+      "scientificName": "Centrobunus braueri",
+      "commonName": null,
+      "gbifKey": 6903314
+    },
+    {
+      "scientificName": "Sitalcicus gardineri",
+      "commonName": null,
+      "gbifKey": 6903287
+    },
+    {
+      "scientificName": "Stipax triangulifer",
+      "commonName": null,
+      "gbifKey": 2161951
+    },
+    {
+      "scientificName": "Pleorotus braueri",
+      "commonName": null,
+      "gbifKey": 2161298
+    },
+    {
+      "scientificName": "Thomasettia seychellana",
+      "commonName": null,
+      "gbifKey": 2161546
+    },
+    {
+      "scientificName": "Afrocyclops pauliani",
+      "commonName": null,
+      "gbifKey": 4326899
+    },
+    {
+      "scientificName": "Tropodiaptomus ctenopus",
+      "commonName": null,
+      "gbifKey": 4332218
+    },
+    {
+      "scientificName": "Liocypris grandis",
+      "commonName": null,
+      "gbifKey": 5789895
+    },
+    {
+      "scientificName": "Acanthametropus pecatonica",
+      "commonName": "Pecatonica River Mayfly",
+      "gbifKey": 1408359
+    },
+    {
+      "scientificName": "Pentagenia robusta",
+      "commonName": "Robust Burrowing Mayfly",
+      "gbifKey": 1409015
+    },
+    {
+      "scientificName": "Margatteoidea amoena",
+      "commonName": null,
+      "gbifKey": 1997275
+    },
+    {
+      "scientificName": "Pseudobactricia ridleyi",
+      "commonName": "Ridley's Stick Insect",
+      "gbifKey": 1411189
+    },
+    {
+      "scientificName": "Clavicoccus erinaceus",
+      "commonName": null,
+      "gbifKey": 2095996
+    },
+    {
+      "scientificName": "Phyllococcus oahuensis",
+      "commonName": null,
+      "gbifKey": 7888375
+    },
+    {
+      "scientificName": "Alloperla roberti",
+      "commonName": "Robert's Stonefly",
+      "gbifKey": 2003672
+    },
+    {
+      "scientificName": "Pseudoyersinia brevipennis",
+      "commonName": null,
+      "gbifKey": 1405741
+    },
+    {
+      "scientificName": "Ameles fasciipennis",
+      "commonName": "Spined Dwarf Mantis",
+      "gbifKey": 5048703
+    },
+    {
+      "scientificName": "Triaenodes phalacris",
+      "commonName": "Athens Caddisfly",
+      "gbifKey": 1435699
+    },
+    {
+      "scientificName": "Triaenodes tridontus",
+      "commonName": "Three-tooth Caddisfly",
+      "gbifKey": 1435684
+    },
+    {
+      "scientificName": "Rhyacophila amabilis",
+      "commonName": "Castle Lake Caddisfly",
+      "gbifKey": 5052966
+    },
+    {
+      "scientificName": "Lottia edmitchelli",
+      "commonName": null,
+      "gbifKey": 6521216
+    },
+    {
+      "scientificName": "Hydropsyche tobiasi",
+      "commonName": "Tobias' Caddisfly",
+      "gbifKey": 5054214
+    },
+    {
+      "scientificName": "Lottia alveus",
+      "commonName": "Eelgrass Limpet",
+      "gbifKey": 2297844
+    },
+    {
+      "scientificName": "Neocnemis occidentalis",
+      "commonName": "Weevil",
+      "gbifKey": 1214631
+    },
+    {
+      "scientificName": "Dryophthorus distinguendus",
+      "commonName": null,
+      "gbifKey": 1170574
+    },
+    {
+      "scientificName": "Conus lugubris",
+      "commonName": null,
+      "gbifKey": 5728364
+    },
+    {
+      "scientificName": "Trigonoscuta yorbalindae",
+      "commonName": "Yorba Linda Weevil",
+      "gbifKey": 4292323
+    },
+    {
+      "scientificName": "Trigonoscuta rossi",
+      "commonName": "Fort Ross Weevil",
+      "gbifKey": 4292337
+    },
+    {
+      "scientificName": "Rhyncogonus bryani",
+      "commonName": null,
+      "gbifKey": 1230132
+    },
+    {
+      "scientificName": "Oodemas laysanensis",
+      "commonName": "Laysan Weevil",
+      "gbifKey": 1213844
+    },
+    {
+      "scientificName": "Calathus extensicollis",
+      "commonName": "Ground beetle",
+      "gbifKey": 5755300
+    },
+    {
+      "scientificName": "Calathus vicenteorum",
+      "commonName": "Ground beetle",
+      "gbifKey": 5755306
+    },
+    {
+      "scientificName": "Bradycellus chavesi",
+      "commonName": "Ground-beetle",
+      "gbifKey": 7546630
+    },
+    {
+      "scientificName": "Mecodema punctellum",
+      "commonName": "Ground Beetle",
+      "gbifKey": 5791543
+    },
+    {
+      "scientificName": "Caracara lutosa",
+      "commonName": "Guadalupe Caracara",
+      "gbifKey": 2480992
+    },
+    {
+      "scientificName": "Falco duboisi",
+      "commonName": "Reunion Kestrel",
+      "gbifKey": 7704488
+    },
+    {
+      "scientificName": "Tachybaptus rufolavatus",
+      "commonName": "Alaotra Dabchick",
+      "gbifKey": 2482042
+    },
+    {
+      "scientificName": "Podilymbus gigas",
+      "commonName": "Giant Pied-billed Grebe",
+      "gbifKey": 2482076
+    },
+    {
+      "scientificName": "Podiceps andinus",
+      "commonName": "Colombian Grebe",
+      "gbifKey": 2482050
+    },
+    {
+      "scientificName": "Rhantus papuanus",
+      "commonName": null,
+      "gbifKey": 5791520
+    },
+    {
+      "scientificName": "Meridiorhantus orbignyi",
+      "commonName": null,
+      "gbifKey": 11154157
+    },
+    {
+      "scientificName": "Carabdytes novacaledoniae",
+      "commonName": null,
+      "gbifKey": null
+    },
+    {
+      "scientificName": "Megadytes ducalis",
+      "commonName": null,
+      "gbifKey": 5791515
+    },
+    {
+      "scientificName": "Hygrotus artus",
+      "commonName": "Mono Lake Diving Beetle",
+      "gbifKey": 1038592
+    },
+    {
+      "scientificName": "Urile perspicillatus",
+      "commonName": "Spectacled Cormorant",
+      "gbifKey": 11084312
+    },
+    {
+      "scientificName": "Pinguinus impennis",
+      "commonName": "Great Auk",
+      "gbifKey": 5229273
+    },
+    {
+      "scientificName": "Physella microstriata",
+      "commonName": "Fish Lake Physa",
+      "gbifKey": 5189796
+    },
+    {
+      "scientificName": "Prosobonia cancellata",
+      "commonName": "Christmas Sandpiper",
+      "gbifKey": 2481730
+    },
+    {
+      "scientificName": "Prosobonia ellisi",
+      "commonName": "Moorea Sandpiper",
+      "gbifKey": 5789300
+    },
+    {
+      "scientificName": "Prosobonia leucoptera",
+      "commonName": "Tahiti Sandpiper",
+      "gbifKey": 2481731
+    },
+    {
+      "scientificName": "Numenius tenuirostris",
+      "commonName": "Slender-billed Curlew",
+      "gbifKey": 2481789
+    },
+    {
+      "scientificName": "Planorbella multivolvis",
+      "commonName": "Acorn Ramshorn",
+      "gbifKey": 5189732
+    },
+    {
+      "scientificName": "Coenocorypha barrierensis",
+      "commonName": "North Island Snipe",
+      "gbifKey": 6066001
+    },
+    {
+      "scientificName": "Coenocorypha iredalei",
+      "commonName": "South Island Snipe",
+      "gbifKey": 4849784
+    },
+    {
+      "scientificName": "Haematopus meadewaldoi",
+      "commonName": "Canarian Black Oystercatcher",
+      "gbifKey": 2480267
+    },
+    {
+      "scientificName": "Mergus australis",
+      "commonName": "Auckland Island Merganser",
+      "gbifKey": 5232476
+    },
+    {
+      "scientificName": "Chenonetta finschi",
+      "commonName": "Finsch's Duck",
+      "gbifKey": 4966422
+    },
+    {
+      "scientificName": "Alopochen kervazoi",
+      "commonName": "Réunion Shelduck",
+      "gbifKey": 5788490
+    },
+    {
+      "scientificName": "Alopochen mauritiana",
+      "commonName": "Mauritian Shelduck",
+      "gbifKey": 8379042
+    },
+    {
+      "scientificName": "Anas marecula",
+      "commonName": "Amsterdam Duck",
+      "gbifKey": 4352315
+    },
+    {
+      "scientificName": "Anas theodori",
+      "commonName": "Mauritian Duck",
+      "gbifKey": 5788486
+    },
+    {
+      "scientificName": "Neoplanorbis carinatus",
+      "commonName": "Carinate Flat-top Snail",
+      "gbifKey": 2291016
+    },
+    {
+      "scientificName": "Neoplanorbis smithi",
+      "commonName": "Angled Flat-top Snail",
+      "gbifKey": 2291015
+    },
+    {
+      "scientificName": "Neoplanorbis tantillus",
+      "commonName": "Little Flat-top Snail",
+      "gbifKey": 2291018
+    },
+    {
+      "scientificName": "Neoplanorbis umbilicatus",
+      "commonName": "Umbilicate Flat-top Snail",
+      "gbifKey": 2291017
+    },
+    {
+      "scientificName": "Amphigyra alabamensis",
+      "commonName": "Shoal Sprite",
+      "gbifKey": 2290948
+    },
+    {
+      "scientificName": "Galba vancouverensis",
+      "commonName": null,
+      "gbifKey": 10212133
+    },
+    {
+      "scientificName": "Camptorhynchus labradorius",
+      "commonName": "Labrador Duck",
+      "gbifKey": 5232436
+    },
+    {
+      "scientificName": "Stagnicola pilsbryi",
+      "commonName": "Fish Springs Marshsnail",
+      "gbifKey": 5189905
+    },
+    {
+      "scientificName": "Upupa antaios",
+      "commonName": "St Helena Hoopoe",
+      "gbifKey": 5788440
+    },
+    {
+      "scientificName": "Tropidophora semilineata",
+      "commonName": null,
+      "gbifKey": 5784100
+    },
+    {
+      "scientificName": "Tropidophora desmazuresi",
+      "commonName": null,
+      "gbifKey": 5784103
+    },
+    {
+      "scientificName": "Bythinella limnopsis",
+      "commonName": null,
+      "gbifKey": 5784413
+    },
+    {
+      "scientificName": "Bythinella microcochlia",
+      "commonName": null,
+      "gbifKey": 5784415
+    },
+    {
+      "scientificName": "Bythinella mauritanica",
+      "commonName": null,
+      "gbifKey": 5784409
+    },
+    {
+      "scientificName": "Bythinella punica",
+      "commonName": null,
+      "gbifKey": 5784412
+    },
+    {
+      "scientificName": "Bythinella gibbosa",
+      "commonName": null,
+      "gbifKey": 4561039
+    },
+    {
+      "scientificName": "Threskiornis solitarius",
+      "commonName": "Réunion Ibis",
+      "gbifKey": 4848546
+    },
+    {
+      "scientificName": "Nycticorax megacephalus",
+      "commonName": "Rodrigues Night-Heron",
+      "gbifKey": 5789309
+    },
+    {
+      "scientificName": "Nycticorax duboisi",
+      "commonName": "Reunion Night-heron",
+      "gbifKey": 5789310
+    },
+    {
+      "scientificName": "Nycticorax mauritianus",
+      "commonName": "Mauritius Night-heron",
+      "gbifKey": 5789311
+    },
+    {
+      "scientificName": "Nyctanassa carcinocatactes",
+      "commonName": "Bermuda Night-heron",
+      "gbifKey": 7629696
+    },
+    {
+      "scientificName": "Ixobrychus novaezelandiae",
+      "commonName": "New Zealand Bittern",
+      "gbifKey": 2480846
+    },
+    {
+      "scientificName": "Nannococcyx psix",
+      "commonName": "Saint Helena Cuckoo",
+      "gbifKey": 5788380
+    },
+    {
+      "scientificName": "Pyrgulopsis nevadensis",
+      "commonName": "Corded Pyrg",
+      "gbifKey": 2300004
+    },
+    {
+      "scientificName": "Marstonia olivacea",
+      "commonName": "Olive Marstonia",
+      "gbifKey": 2300127
+    },
+    {
+      "scientificName": "Coua delalandei",
+      "commonName": "Delalande's Coua",
+      "gbifKey": 2496418
+    },
+    {
+      "scientificName": "Bermuteo avivorus",
+      "commonName": "Bermuda Hawk",
+      "gbifKey": 9301869
+    },
+    {
+      "scientificName": "Ohridohauffenia drimica",
+      "commonName": null,
+      "gbifKey": 4560753
+    },
+    {
+      "scientificName": "Hydrobia gracilis",
+      "commonName": null,
+      "gbifKey": 5784290
+    },
+    {
+      "scientificName": "Pseudamnicola oudrefica",
+      "commonName": null,
+      "gbifKey": 5784398
+    },
+    {
+      "scientificName": "Pseudamnicola desertorum",
+      "commonName": null,
+      "gbifKey": 5784395
+    },
+    {
+      "scientificName": "Pseudamnicola latasteana",
+      "commonName": null,
+      "gbifKey": 5784407
+    },
+    {
+      "scientificName": "Pseudamnicola barratei",
+      "commonName": null,
+      "gbifKey": 5784393
+    },
+    {
+      "scientificName": "Pseudamnicola singularis",
+      "commonName": null,
+      "gbifKey": 5784392
+    },
+    {
+      "scientificName": "Pseudamnicola globulina",
+      "commonName": null,
+      "gbifKey": 5784403
+    },
+    {
+      "scientificName": "Pseudamnicola ragia",
+      "commonName": null,
+      "gbifKey": 5784405
+    },
+    {
+      "scientificName": "Pseudamnicola doumeti",
+      "commonName": null,
+      "gbifKey": 5784404
+    },
+    {
+      "scientificName": "Pseudamnicola letourneuxiana",
+      "commonName": null,
+      "gbifKey": 8895316
+    },
+    {
+      "scientificName": "Mercuria maceana",
+      "commonName": null,
+      "gbifKey": 4560002
+    },
+    {
+      "scientificName": "Islamia ateni",
+      "commonName": null,
+      "gbifKey": 4560851
+    },
+    {
+      "scientificName": "Belgrandiella intermedia",
+      "commonName": null,
+      "gbifKey": 5784218
+    },
+    {
+      "scientificName": "Belgrandiella boetersi",
+      "commonName": null,
+      "gbifKey": 4560466
+    },
+    {
+      "scientificName": "Coturnix novaezelandiae",
+      "commonName": "New Zealand Quail",
+      "gbifKey": 2474139
+    },
+    {
+      "scientificName": "Littoraria flammea",
+      "commonName": null,
+      "gbifKey": 5725395
+    },
+    {
+      "scientificName": "Eupaludestrina spinellii",
+      "commonName": null,
+      "gbifKey": 10742385
+    },
+    {
+      "scientificName": "Littoridina gaudichaudii",
+      "commonName": null,
+      "gbifKey": 5784314
+    },
+    {
+      "scientificName": "Clappia cahabensis",
+      "commonName": "Cahaba Pebblesnail",
+      "gbifKey": 5192419
+    },
+    {
+      "scientificName": "Clappia umbilicata",
+      "commonName": "Umbilicate Pebblesnail",
+      "gbifKey": 5192418
+    },
+    {
+      "scientificName": "Somatogyrus alcoviensis",
+      "commonName": "Reverse Pebblesnail",
+      "gbifKey": 2300226
+    },
+    {
+      "scientificName": "Somatogyrus amnicoloides",
+      "commonName": "Oachita Pebblesnail",
+      "gbifKey": 2300253
+    },
+    {
+      "scientificName": "Somatogyrus crassilabris",
+      "commonName": "Thick-lipped Pebblesnail",
+      "gbifKey": 2300228
+    },
+    {
+      "scientificName": "Somatogyrus wheeleri",
+      "commonName": "Channeled Pebblesnail",
+      "gbifKey": 2300218
+    },
+    {
+      "scientificName": "Posticobia norfolkensis",
+      "commonName": null,
+      "gbifKey": 4608518
+    },
+    {
+      "scientificName": "Leiorhagium solemi",
+      "commonName": null,
+      "gbifKey": 7506335
+    },
+    {
+      "scientificName": "Fluvidona dulvertonensis",
+      "commonName": null,
+      "gbifKey": 5784342
+    },
+    {
+      "scientificName": "Colaptes oceanicus",
+      "commonName": "Bermuda Flicker",
+      "gbifKey": 9331800
+    },
+    {
+      "scientificName": "Mascarenotus sauzieri",
+      "commonName": "Mauritius Owl",
+      "gbifKey": 5789329
+    },
+    {
+      "scientificName": "Mascarenotus grucheti",
+      "commonName": "Reunion Owl",
+      "gbifKey": 5789328
+    },
+    {
+      "scientificName": "Mascarenotus murivorus",
+      "commonName": "Rodrigues Owl",
+      "gbifKey": 5789330
+    },
+    {
+      "scientificName": "Omphalotropis plicosa",
+      "commonName": null,
+      "gbifKey": 4361216
+    },
+    {
+      "scientificName": "Vitrinula chichijimana",
+      "commonName": null,
+      "gbifKey": 5783516
+    },
+    {
+      "scientificName": "Vitrinula hahajimana",
+      "commonName": null,
+      "gbifKey": 5783518
+    },
+    {
+      "scientificName": "Vitrinula chaunax",
+      "commonName": null,
+      "gbifKey": 5783517
+    },
+    {
+      "scientificName": "Aegolius gradyi",
+      "commonName": "Bermuda Saw-whet Owl",
+      "gbifKey": 7487630
+    },
+    {
+      "scientificName": "Ninox albifacies",
+      "commonName": "Laughing Owl",
+      "gbifKey": 11305053
+    },
+    {
+      "scientificName": "Erythromachus leguati",
+      "commonName": "Rodrigues Rail",
+      "gbifKey": 8131453
+    },
+    {
+      "scientificName": "Aphanapteryx bonasia",
+      "commonName": "Red Rail",
+      "gbifKey": 5789332
+    },
+    {
+      "scientificName": "Cabalus modestus",
+      "commonName": "Chatham Rail",
+      "gbifKey": 4852276
+    },
+    {
+      "scientificName": "Diaphorapteryx hawkinsi",
+      "commonName": "Hawkins's Rail",
+      "gbifKey": 4852320
+    },
+    {
+      "scientificName": "Mundia elpenor",
+      "commonName": "Ascension Crake",
+      "gbifKey": 5789340
+    },
+    {
+      "scientificName": "Rhachis comorensis",
+      "commonName": null,
+      "gbifKey": 5783521
+    },
+    {
+      "scientificName": "Rhachis sanguineus",
+      "commonName": null,
+      "gbifKey": 5783522
+    },
+    {
+      "scientificName": "Pachnodus velutinus",
+      "commonName": null,
+      "gbifKey": 5783529
+    },
+    {
+      "scientificName": "Pachnodus ladiguensis",
+      "commonName": null,
+      "gbifKey": 5783530
+    },
+    {
+      "scientificName": "Pachnodus curiosus",
+      "commonName": null,
+      "gbifKey": 5783523
+    },
+    {
+      "scientificName": "Zapornia astrictocarpus",
+      "commonName": "Saint Helena Crake",
+      "gbifKey": 10889030
+    },
+    {
+      "scientificName": "Zapornia nigra",
+      "commonName": "Miller's Rail",
+      "gbifKey": 10062447
+    },
+    {
+      "scientificName": "Zapornia monasa",
+      "commonName": "Kosrae Crake",
+      "gbifKey": 9628574
+    },
+    {
+      "scientificName": "Zapornia palmeri",
+      "commonName": "Laysan Crake",
+      "gbifKey": 9387982
+    },
+    {
+      "scientificName": "Zapornia sandwichensis",
+      "commonName": "Hawaiian Crake",
+      "gbifKey": 9451868
+    },
+    {
+      "scientificName": "Partula umbilicata",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783050
+    },
+    {
+      "scientificName": "Partula lutea",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783000
+    },
+    {
+      "scientificName": "Partula levistriata",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783013
+    },
+    {
+      "scientificName": "Partula leptochila",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783038
+    },
+    {
+      "scientificName": "Dryolimnas augusti",
+      "commonName": "Reunion Rail",
+      "gbifKey": 7432017
+    },
+    {
+      "scientificName": "Partula atilis",
+      "commonName": "Small Ground Partula Snail",
+      "gbifKey": 5782999
+    },
+    {
+      "scientificName": "Partula crassilabris",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783070
+    },
+    {
+      "scientificName": "Partula labrusca",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783021
+    },
+    {
+      "scientificName": "Partula guamensis",
+      "commonName": "Pohnpei Ground Partula Snail",
+      "gbifKey": 5783032
+    },
+    {
+      "scientificName": "Partula faba",
+      "commonName": "Captain Cook's Bean Snail",
+      "gbifKey": 5783042
+    },
+    {
+      "scientificName": "Partula salifana",
+      "commonName": "Tree Snail",
+      "gbifKey": 5783065
+    },
+    {
+      "scientificName": "Partula aurantia",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783006
+    },
+    {
+      "scientificName": "Partula langfordi",
+      "commonName": null,
+      "gbifKey": 5783036
+    },
+    {
+      "scientificName": "Partula planilabrum",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783031
+    },
+    {
+      "scientificName": "Hypotaenidia poeciloptera",
+      "commonName": "Bar-winged Rail",
+      "gbifKey": 11013675
+    },
+    {
+      "scientificName": "Partula eremita",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783054
+    },
+    {
+      "scientificName": "Partula dolorosa",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783068
+    },
+    {
+      "scientificName": "Hypotaenidia pacifica",
+      "commonName": "Tahiti Rail",
+      "gbifKey": 10026899
+    },
+    {
+      "scientificName": "Hypotaenidia dieffenbachii",
+      "commonName": "Dieffenbach's Rail",
+      "gbifKey": 10828053
+    },
+    {
+      "scientificName": "Partula sagitta",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783058
+    },
+    {
+      "scientificName": "Partula producta",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783030
+    },
+    {
+      "scientificName": "Partula protracta",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783004
+    },
+    {
+      "scientificName": "Partula remota",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783044
+    },
+    {
+      "scientificName": "Hypotaenidia wakensis",
+      "commonName": "Wake Island Rail",
+      "gbifKey": 11031678
+    },
+    {
+      "scientificName": "Partula tristis",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783009
+    },
+    {
+      "scientificName": "Partula turgida",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783076
+    },
+    {
+      "scientificName": "Partula bilineata",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783039
+    },
+    {
+      "scientificName": "Partula cuneata",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783056
+    },
+    {
+      "scientificName": "Partula dolichostoma",
+      "commonName": "Polynesian Tree Snail",
+      "gbifKey": 5783043
+    },
+    {
+      "scientificName": "Laterallus podarces",
+      "commonName": "Saint Helena Crake",
+      "gbifKey": 10882998
+    },
+    {
+      "scientificName": "Fulica newtonii",
+      "commonName": "Mascarene Coot",
+      "gbifKey": 7620818
+    },
+    {
+      "scientificName": "Gallinula nesiotis",
+      "commonName": "Tristan Moorhen",
+      "gbifKey": 5228224
+    },
+    {
+      "scientificName": "Tribonyx hodgenorum",
+      "commonName": "Hodgen's Waterhen",
+      "gbifKey": 11017141
+    },
+    {
+      "scientificName": "Porphyrio paepae",
+      "commonName": "Marquesan Swamphen",
+      "gbifKey": 7681645
+    },
+    {
+      "scientificName": "Porphyrio caerulescens",
+      "commonName": "Réunion Gallinule",
+      "gbifKey": 10792253
+    },
+    {
+      "scientificName": "Porphyrio kukwiedei",
+      "commonName": "New Caledonia Gallinule",
+      "gbifKey": 5789337
+    },
+    {
+      "scientificName": "Porphyrio mantelli",
+      "commonName": "North Island Takahe",
+      "gbifKey": 5228152
+    },
+    {
+      "scientificName": "Porphyrio albus",
+      "commonName": "Lord Howe Island Swamphen",
+      "gbifKey": 5228151
+    },
+    {
+      "scientificName": "Zonites siphnicus",
+      "commonName": null,
+      "gbifKey": 4568529
+    },
+    {
+      "scientificName": "Zonites santoriniensis",
+      "commonName": null,
+      "gbifKey": 4568570
+    },
+    {
+      "scientificName": "Alectroenas payandeei",
+      "commonName": "Rodrigues Blue-pigeon",
+      "gbifKey": 10698086
+    },
+    {
+      "scientificName": "Alectroenas nitidissimus",
+      "commonName": "Mauritius Blue-Pigeon",
+      "gbifKey": 8372591
+    },
+    {
+      "scientificName": "Megalobulimus cardosoi",
+      "commonName": null,
+      "gbifKey": 5782965
+    },
+    {
+      "scientificName": "Nesoenas cicur",
+      "commonName": "Mauritius Turtle-dove",
+      "gbifKey": 10790792
+    },
+    {
+      "scientificName": "Nesoenas duboisi",
+      "commonName": "Réunion Pigeon",
+      "gbifKey": 8308389
+    },
+    {
+      "scientificName": "Nesoenas rodericanus",
+      "commonName": "Rodrigues Turtle-dove",
+      "gbifKey": 7708406
+    },
+    {
+      "scientificName": "Pezophaps solitaria",
+      "commonName": "Rodriguez Solitaire",
+      "gbifKey": 2496200
+    },
+    {
+      "scientificName": "Raphus cucullatus",
+      "commonName": "Dodo",
+      "gbifKey": 2496198
+    },
+    {
+      "scientificName": "Columba thiriouxi",
+      "commonName": "Mauritius Woodpigeon",
+      "gbifKey": 10899220
+    },
+    {
+      "scientificName": "Columba jouyi",
+      "commonName": "Ryukyu Wood Pigeon",
+      "gbifKey": 5231869
+    },
+    {
+      "scientificName": "Columba versicolor",
+      "commonName": "Bonin Woodpigeon",
+      "gbifKey": 5231877
+    },
+    {
+      "scientificName": "Ptilinopus mercierii",
+      "commonName": "Moustached Fruit Dove",
+      "gbifKey": 2495564
+    },
+    {
+      "scientificName": "Vitrea storchi",
+      "commonName": null,
+      "gbifKey": 4562745
+    },
+    {
+      "scientificName": "Microgoura meeki",
+      "commonName": "Choiseul Pigeon",
+      "gbifKey": 2496195
+    },
+    {
+      "scientificName": "Caloenas maculata",
+      "commonName": "Liverpool Pigeon",
+      "gbifKey": 5788469
+    },
+    {
+      "scientificName": "Pampusana ferruginea",
+      "commonName": "Tanna Ground-Dove",
+      "gbifKey": 10808959
+    },
+    {
+      "scientificName": "Pampusana salamonis",
+      "commonName": "Thick-billed Ground-dove",
+      "gbifKey": 10674967
+    },
+    {
+      "scientificName": "Ectopistes migratorius",
+      "commonName": "Passenger Pigeon",
+      "gbifKey": 2495898
+    },
+    {
+      "scientificName": "Pseudohelenoconcha spurca",
+      "commonName": null,
+      "gbifKey": 5783656
+    },
+    {
+      "scientificName": "Thaumatodon multilamellata",
+      "commonName": null,
+      "gbifKey": 5783640
+    },
+    {
+      "scientificName": "Dromaius minor",
+      "commonName": "King Island Emu",
+      "gbifKey": 4843660
+    },
+    {
+      "scientificName": "Dromaius baudinianus",
+      "commonName": "Kangaroo Island Emu",
+      "gbifKey": 2495132
+    },
+    {
+      "scientificName": "Hirasea planulata",
+      "commonName": null,
+      "gbifKey": 5783644
+    },
+    {
+      "scientificName": "Helenoconcha minutissima",
+      "commonName": null,
+      "gbifKey": 5783561
+    },
+    {
+      "scientificName": "Helenoconcha leptalea",
+      "commonName": null,
+      "gbifKey": 5783563
+    },
+    {
+      "scientificName": "Helenoconcha sexdentata",
+      "commonName": null,
+      "gbifKey": 5783560
+    },
+    {
+      "scientificName": "Helenoconcha pseustes",
+      "commonName": null,
+      "gbifKey": 5783562
+    },
+    {
+      "scientificName": "Helenoconcha polyodon",
+      "commonName": null,
+      "gbifKey": 5783559
+    },
+    {
+      "scientificName": "Helenodiscus vernoni",
+      "commonName": "Wollaston’s Saint Helena Discus Snail",
+      "gbifKey": 5783548
+    },
+    {
+      "scientificName": "Helenodiscus bilamellata",
+      "commonName": null,
+      "gbifKey": 5783549
+    },
+    {
+      "scientificName": "Libera tumuloides",
+      "commonName": null,
+      "gbifKey": 5783541
+    },
+    {
+      "scientificName": "Libera subcavernula",
+      "commonName": null,
+      "gbifKey": 5783542
+    },
+    {
+      "scientificName": "Mautodontha consimilis",
+      "commonName": null,
+      "gbifKey": 5783610
+    },
+    {
+      "scientificName": "Mautodontha maupiensis",
+      "commonName": null,
+      "gbifKey": 5783620
+    },
+    {
+      "scientificName": "Mautodontha consobrina",
+      "commonName": null,
+      "gbifKey": 5783615
+    },
+    {
+      "scientificName": "Mautodontha punctiperforata",
+      "commonName": null,
+      "gbifKey": 5783616
+    },
+    {
+      "scientificName": "Mautodontha parvidens",
+      "commonName": null,
+      "gbifKey": 5783611
+    },
+    {
+      "scientificName": "Mautodontha saintjohni",
+      "commonName": null,
+      "gbifKey": 5783621
+    },
+    {
+      "scientificName": "Mautodontha unilamellata",
+      "commonName": null,
+      "gbifKey": 5783617
+    },
+    {
+      "scientificName": "Mautodontha subtilis",
+      "commonName": null,
+      "gbifKey": 5783612
+    },
+    {
+      "scientificName": "Mautodontha zebrina",
+      "commonName": null,
+      "gbifKey": 5783613
+    },
+    {
+      "scientificName": "Mautodontha acuticosta",
+      "commonName": null,
+      "gbifKey": 5783618
+    },
+    {
+      "scientificName": "Nestor productus",
+      "commonName": "Norfolk Kaka",
+      "gbifKey": 2479592
+    },
+    {
+      "scientificName": "Necropsittacus rodricanus",
+      "commonName": "Rodrigues Parrot",
+      "gbifKey": 8942896
+    },
+    {
+      "scientificName": "Lophopsittacus mauritianus",
+      "commonName": "Broad-billed Parrot",
+      "gbifKey": 5788408
+    },
+    {
+      "scientificName": "Lophopsittacus bensoni",
+      "commonName": "Mauritius Grey Parrot",
+      "gbifKey": 5788409
+    },
+    {
+      "scientificName": "Sinployea planospira",
+      "commonName": null,
+      "gbifKey": 5783599
+    },
+    {
+      "scientificName": "Cyanoramphus ulietanus",
+      "commonName": "Raiatea Parakeet",
+      "gbifKey": 5229109
+    },
+    {
+      "scientificName": "Sinployea otareae",
+      "commonName": null,
+      "gbifKey": 5783603
+    },
+    {
+      "scientificName": "Sinployea harveyensis",
+      "commonName": null,
+      "gbifKey": 5783596
+    },
+    {
+      "scientificName": "Sinployea decorticata",
+      "commonName": null,
+      "gbifKey": 5783600
+    },
+    {
+      "scientificName": "Sinployea rudis",
+      "commonName": null,
+      "gbifKey": 5783602
+    },
+    {
+      "scientificName": "Sinployea tenuicostata",
+      "commonName": null,
+      "gbifKey": 5783598
+    },
+    {
+      "scientificName": "Cyanoramphus zealandicus",
+      "commonName": "Black-fronted Parakeet",
+      "gbifKey": 5229102
+    },
+    {
+      "scientificName": "Sinployea youngi",
+      "commonName": null,
+      "gbifKey": 5783605
+    },
+    {
+      "scientificName": "Sinployea proxima",
+      "commonName": null,
+      "gbifKey": 5783595
+    },
+    {
+      "scientificName": "Sinployea canalis",
+      "commonName": null,
+      "gbifKey": 5783604
+    },
+    {
+      "scientificName": "Psephotellus pulcherrimus",
+      "commonName": "Paradise Parrot",
+      "gbifKey": 4851322
+    },
+    {
+      "scientificName": "Mascarinus mascarin",
+      "commonName": "Mascarene Parrot",
+      "gbifKey": 2480141
+    },
+    {
+      "scientificName": "Taipidon octolamellata",
+      "commonName": null,
+      "gbifKey": 5783589
+    },
+    {
+      "scientificName": "Taipidon marquesana",
+      "commonName": null,
+      "gbifKey": 5783590
+    },
+    {
+      "scientificName": "Taipidon anceyana",
+      "commonName": null,
+      "gbifKey": 5783591
+    },
+    {
+      "scientificName": "Alexandrinus exsul",
+      "commonName": "Rodrigues Parakeet",
+      "gbifKey": 10735773
+    },
+    {
+      "scientificName": "Palaeornis wardi",
+      "commonName": "Seychelles Parrot",
+      "gbifKey": 10934544
+    },
+    {
+      "scientificName": "Pseudocampylaea lowii",
+      "commonName": null,
+      "gbifKey": 5780229
+    },
+    {
+      "scientificName": "Eclectus infectus",
+      "commonName": "Oceanic Parrot",
+      "gbifKey": 10748017
+    },
+    {
+      "scientificName": "Sympetrum dilatatum",
+      "commonName": "St. Helena Darter",
+      "gbifKey": 1428208
+    },
+    {
+      "scientificName": "Ara tricolor",
+      "commonName": "Cuban Macaw",
+      "gbifKey": 5959232
+    },
+    {
+      "scientificName": "Psittacara labati",
+      "commonName": "Guadeloupe Parakeet",
+      "gbifKey": 10161941
+    },
+    {
+      "scientificName": "Conuropsis carolinensis",
+      "commonName": "Carolina Parakeet",
+      "gbifKey": 2479449
+    },
+    {
+      "scientificName": "Xerocrassa picardi",
+      "commonName": null,
+      "gbifKey": 9880107
+    },
+    {
+      "scientificName": "Amazona martinicana",
+      "commonName": "Martinique Parrot",
+      "gbifKey": 5788412
+    },
+    {
+      "scientificName": "Amazona violacea",
+      "commonName": "Guadeloupe Parrot",
+      "gbifKey": 5788411
+    },
+    {
+      "scientificName": "Leptaxis vetusta",
+      "commonName": null,
+      "gbifKey": 10717644
+    },
+    {
+      "scientificName": "Carelia kalalauensis",
+      "commonName": null,
+      "gbifKey": 5783116
+    },
+    {
+      "scientificName": "Carelia knudseni",
+      "commonName": null,
+      "gbifKey": 5783132
+    },
+    {
+      "scientificName": "Carelia glossema",
+      "commonName": null,
+      "gbifKey": 5783128
+    },
+    {
+      "scientificName": "Carelia hyattiana",
+      "commonName": null,
+      "gbifKey": 5783121
+    },
+    {
+      "scientificName": "Carelia mirabilis",
+      "commonName": null,
+      "gbifKey": 5783115
+    },
+    {
+      "scientificName": "Carelia necra",
+      "commonName": null,
+      "gbifKey": 5783131
+    },
+    {
+      "scientificName": "Carelia lirata",
+      "commonName": null,
+      "gbifKey": 5783127
+    },
+    {
+      "scientificName": "Carelia lymani",
+      "commonName": null,
+      "gbifKey": 5783120
+    },
+    {
+      "scientificName": "Carelia periscelis",
+      "commonName": null,
+      "gbifKey": 5783114
+    },
+    {
+      "scientificName": "Carelia pilsbryi",
+      "commonName": null,
+      "gbifKey": 10911970
+    },
+    {
+      "scientificName": "Carelia sinclairi",
+      "commonName": null,
+      "gbifKey": 5783133
+    },
+    {
+      "scientificName": "Carelia olivacea",
+      "commonName": null,
+      "gbifKey": 5783126
+    },
+    {
+      "scientificName": "Carelia paradoxa",
+      "commonName": null,
+      "gbifKey": 5783119
+    },
+    {
+      "scientificName": "Carelia tenebrosa",
+      "commonName": null,
+      "gbifKey": 5783129
+    },
+    {
+      "scientificName": "Carelia turricula",
+      "commonName": null,
+      "gbifKey": 5783122
+    },
+    {
+      "scientificName": "Carelia cochlea",
+      "commonName": null,
+      "gbifKey": 5783113
+    },
+    {
+      "scientificName": "Carelia anceophila",
+      "commonName": null,
+      "gbifKey": 5783123
+    },
+    {
+      "scientificName": "Carelia bicolor",
+      "commonName": null,
+      "gbifKey": 5783118
+    },
+    {
+      "scientificName": "Carelia dolei",
+      "commonName": null,
+      "gbifKey": 10846160
+    },
+    {
+      "scientificName": "Carelia evelynae",
+      "commonName": null,
+      "gbifKey": 5783124
+    },
+    {
+      "scientificName": "Carelia cumingiana",
+      "commonName": null,
+      "gbifKey": 5783130
+    },
+    {
+      "scientificName": "Amastra tenuispira",
+      "commonName": null,
+      "gbifKey": 5783150
+    },
+    {
+      "scientificName": "Amastra crassilabrum",
+      "commonName": null,
+      "gbifKey": 5783151
+    },
+    {
+      "scientificName": "Amastra cornea",
+      "commonName": null,
+      "gbifKey": 5783143
+    },
+    {
+      "scientificName": "Amastra reticulata",
+      "commonName": null,
+      "gbifKey": 5783148
+    },
+    {
+      "scientificName": "Amastra subrostrata",
+      "commonName": null,
+      "gbifKey": 5783140
+    },
+    {
+      "scientificName": "Amastra subsoror",
+      "commonName": null,
+      "gbifKey": 11030724
+    },
+    {
+      "scientificName": "Amastra elongata",
+      "commonName": null,
+      "gbifKey": 5783145
+    },
+    {
+      "scientificName": "Amastra pellucida",
+      "commonName": null,
+      "gbifKey": 5783146
+    },
+    {
+      "scientificName": "Amastra forbesi",
+      "commonName": null,
+      "gbifKey": 5783138
+    },
+    {
+      "scientificName": "Amastra porcus",
+      "commonName": null,
+      "gbifKey": 5783139
+    },
+    {
+      "scientificName": "Amastra albolabris",
+      "commonName": null,
+      "gbifKey": 5783142
+    },
+    {
+      "scientificName": "Amastra umbilicata",
+      "commonName": null,
+      "gbifKey": 5783141
+    },
+    {
+      "scientificName": "Leiostyla lamellosa",
+      "commonName": "Madeiran Land Snail",
+      "gbifKey": 4566572
+    },
+    {
+      "scientificName": "Pleurodonte desidens",
+      "commonName": null,
+      "gbifKey": 5783172
+    },
+    {
+      "scientificName": "Erepta nevilli",
+      "commonName": null,
+      "gbifKey": 5783217
+    },
+    {
+      "scientificName": "Harmogenanina linophora",
+      "commonName": null,
+      "gbifKey": 5783234
+    },
+    {
+      "scientificName": "Harmogenanina subdetecta",
+      "commonName": null,
+      "gbifKey": 5783236
+    },
+    {
+      "scientificName": "Diastole matafaoi",
+      "commonName": "Mount Matafao Different Snail",
+      "gbifKey": 5783214
+    },
+    {
+      "scientificName": "Colparion madgei",
+      "commonName": null,
+      "gbifKey": 5783488
+    },
+    {
+      "scientificName": "Advena campbelli",
+      "commonName": "Campbell's Keeled Glass-snail",
+      "gbifKey": 5191143
+    },
+    {
+      "scientificName": "Fanulena perrugosa",
+      "commonName": null,
+      "gbifKey": 2296999
+    },
+    {
+      "scientificName": "Allenoconcha quintalae",
+      "commonName": null,
+      "gbifKey": 12244499
+    },
+    {
+      "scientificName": "Gibbus lyonetianus",
+      "commonName": null,
+      "gbifKey": 5783355
+    },
+    {
+      "scientificName": "Gonospira nevilli",
+      "commonName": null,
+      "gbifKey": 5783380
+    },
+    {
+      "scientificName": "Gonidomus newtoni",
+      "commonName": null,
+      "gbifKey": 5783357
+    },
+    {
+      "scientificName": "Gulella mayottensis",
+      "commonName": null,
+      "gbifKey": 5783414
+    },
+    {
+      "scientificName": "Riccordia elegans",
+      "commonName": "Caribbean Emerald",
+      "gbifKey": 10904161
+    },
+    {
+      "scientificName": "Riccordia bracei",
+      "commonName": "Brace's Emerald",
+      "gbifKey": 11060764
+    },
+    {
+      "scientificName": "Pterodroma rupinarum",
+      "commonName": "St Helena Gadfly Petrel",
+      "gbifKey": 5788463
+    },
+    {
+      "scientificName": "Bulweria bifax",
+      "commonName": "Small St Helena Petrel",
+      "gbifKey": 5788466
+    },
+    {
+      "scientificName": "Traversia lyalli",
+      "commonName": "Stephens Island Wren",
+      "gbifKey": 5788937
+    },
+    {
+      "scientificName": "Xenicus longipes",
+      "commonName": "New Zealand Bush Wren",
+      "gbifKey": 2484584
+    },
+    {
+      "scientificName": "Chaetoptila angustipluma",
+      "commonName": "Kioea",
+      "gbifKey": 2486948
+    },
+    {
+      "scientificName": "Moho apicalis",
+      "commonName": "O'ahu 'O'o",
+      "gbifKey": 2486983
+    },
+    {
+      "scientificName": "Moho bishopi",
+      "commonName": "Bishop's 'O'o",
+      "gbifKey": 2486985
+    },
+    {
+      "scientificName": "Moho nobilis",
+      "commonName": "Hawaii Oo",
+      "gbifKey": 2486984
+    },
+    {
+      "scientificName": "Moho braccatus",
+      "commonName": "Kaua'i 'O'o",
+      "gbifKey": 2486982
+    },
+    {
+      "scientificName": "Auriculella uniplicata",
+      "commonName": null,
+      "gbifKey": 5782867
+    },
+    {
+      "scientificName": "Auriculella expansa",
+      "commonName": null,
+      "gbifKey": 5782870
+    },
+    {
+      "scientificName": "Tornelasmias capricorni",
+      "commonName": null,
+      "gbifKey": 4597957
+    },
+    {
+      "scientificName": "Achatinella valida",
+      "commonName": null,
+      "gbifKey": 5782906
+    },
+    {
+      "scientificName": "Achatinella thaanumi",
+      "commonName": null,
+      "gbifKey": 5782918
+    },
+    {
+      "scientificName": "Achatinella spaldingi",
+      "commonName": null,
+      "gbifKey": 5782919
+    },
+    {
+      "scientificName": "Achatinella papyracea",
+      "commonName": null,
+      "gbifKey": 5782921
+    },
+    {
+      "scientificName": "Achatinella juddii",
+      "commonName": null,
+      "gbifKey": 5782935
+    },
+    {
+      "scientificName": "Achatinella lehuiensis",
+      "commonName": null,
+      "gbifKey": 5782934
+    },
+    {
+      "scientificName": "Achatinella juncea",
+      "commonName": null,
+      "gbifKey": 5782927
+    },
+    {
+      "scientificName": "Achatinella livida",
+      "commonName": null,
+      "gbifKey": 5782929
+    },
+    {
+      "scientificName": "Achatinella decora",
+      "commonName": null,
+      "gbifKey": 5782940
+    },
+    {
+      "scientificName": "Achatinella elegans",
+      "commonName": null,
+      "gbifKey": 5782938
+    },
+    {
+      "scientificName": "Achatinella dimorpha",
+      "commonName": null,
+      "gbifKey": 5782917
+    },
+    {
+      "scientificName": "Achatinella casta",
+      "commonName": null,
+      "gbifKey": 5782915
+    },
+    {
+      "scientificName": "Achatinella caesia",
+      "commonName": null,
+      "gbifKey": 5782922
+    },
+    {
+      "scientificName": "Achatinella abbreviata",
+      "commonName": null,
+      "gbifKey": 5782905
+    },
+    {
+      "scientificName": "Achatinella buddii",
+      "commonName": null,
+      "gbifKey": 5782911
+    },
+    {
+      "scientificName": "Perdicella maniensis",
+      "commonName": null,
+      "gbifKey": 5782855
+    },
+    {
+      "scientificName": "Perdicella zebra",
+      "commonName": null,
+      "gbifKey": 5782852
+    },
+    {
+      "scientificName": "Perdicella zebrina",
+      "commonName": null,
+      "gbifKey": 5782857
+    },
+    {
+      "scientificName": "Perdicella fulgurans",
+      "commonName": null,
+      "gbifKey": 5782858
+    },
+    {
+      "scientificName": "Partulina crassa",
+      "commonName": null,
+      "gbifKey": 5782896
+    },
+    {
+      "scientificName": "Partulina montagui",
+      "commonName": null,
+      "gbifKey": 5782878
+    },
+    {
+      "scientificName": "Newcombia philippiana",
+      "commonName": null,
+      "gbifKey": 5782945
+    },
+    {
+      "scientificName": "Lamellidea monodonta",
+      "commonName": null,
+      "gbifKey": 5782864
+    },
+    {
+      "scientificName": "Lamellidea nakadai",
+      "commonName": null,
+      "gbifKey": 5782862
+    },
+    {
+      "scientificName": "Ctenoglypta newtoni",
+      "commonName": null,
+      "gbifKey": 5783459
+    },
+    {
+      "scientificName": "Caldwellia philyrina",
+      "commonName": null,
+      "gbifKey": 5783464
+    },
+    {
+      "scientificName": "Dupontia proletaria",
+      "commonName": null,
+      "gbifKey": 5783471
+    },
+    {
+      "scientificName": "Pachystyla rufozonata",
+      "commonName": null,
+      "gbifKey": 5783462
+    },
+    {
+      "scientificName": "Zosterops semiflavus",
+      "commonName": "Marianne White-eye",
+      "gbifKey": 8138081
+    },
+    {
+      "scientificName": "Zosterops conspicillatus",
+      "commonName": "Bridled White-eye",
+      "gbifKey": 2489394
+    },
+    {
+      "scientificName": "Zosterops strenuus",
+      "commonName": "Robust White-eye",
+      "gbifKey": 2489393
+    },
+    {
+      "scientificName": "Zosterops albogularis",
+      "commonName": "White-breasted Silvereye",
+      "gbifKey": 2489367
+    },
+    {
+      "scientificName": "Chilonopsis nonpareil",
+      "commonName": "Great Saint Helena Awl Snail",
+      "gbifKey": 5783252
+    },
+    {
+      "scientificName": "Chilonopsis melanoides",
+      "commonName": null,
+      "gbifKey": 5783251
+    },
+    {
+      "scientificName": "Chilonopsis subtruncatus",
+      "commonName": null,
+      "gbifKey": 5783255
+    },
+    {
+      "scientificName": "Chilonopsis subplicatus",
+      "commonName": null,
+      "gbifKey": 5783253
+    },
+    {
+      "scientificName": "Chilonopsis exulatus",
+      "commonName": null,
+      "gbifKey": 5783256
+    },
+    {
+      "scientificName": "Chilonopsis blofeldi",
+      "commonName": null,
+      "gbifKey": 5783254
+    },
+    {
+      "scientificName": "Chilonopsis helena",
+      "commonName": null,
+      "gbifKey": 5783250
+    },
+    {
+      "scientificName": "Chilonopsis turtoni",
+      "commonName": null,
+      "gbifKey": 5783257
+    },
+    {
+      "scientificName": "Fregilupus varius",
+      "commonName": "Réunion Starling",
+      "gbifKey": 2489045
+    },
+    {
+      "scientificName": "Necropsar rodericanus",
+      "commonName": "Rodriguez Starling",
+      "gbifKey": 2489095
+    },
+    {
+      "scientificName": "Aplonis corvina",
+      "commonName": "Kosrae Starling",
+      "gbifKey": 2489021
+    },
+    {
+      "scientificName": "Aplonis mavornata",
+      "commonName": "Mysterious Starling",
+      "gbifKey": 2489026
+    },
+    {
+      "scientificName": "Aplonis fusca",
+      "commonName": "Tasman Starling",
+      "gbifKey": 2489040
+    },
+    {
+      "scientificName": "Aplonis ulietensis",
+      "commonName": "Bay Starling",
+      "gbifKey": 10432639
+    },
+    {
+      "scientificName": "Tomigerus turbinatus",
+      "commonName": null,
+      "gbifKey": 5783667
+    },
+    {
+      "scientificName": "Tomigerus gibberulus",
+      "commonName": null,
+      "gbifKey": 5783669
+    },
+    {
+      "scientificName": "Placostylus cuniculinsulae",
+      "commonName": null,
+      "gbifKey": 5783730
+    },
+    {
+      "scientificName": "Leucocharis porphyrocheila",
+      "commonName": null,
+      "gbifKey": 5783671
+    },
+    {
+      "scientificName": "Leucocharis loyaltiensis",
+      "commonName": null,
+      "gbifKey": 5783672
+    },
+    {
+      "scientificName": "Pupilla obliquicosta",
+      "commonName": null,
+      "gbifKey": 5782822
+    },
+    {
+      "scientificName": "Nesopupa turtoni",
+      "commonName": null,
+      "gbifKey": 5782844
+    },
+    {
+      "scientificName": "Lyropupa perlonga",
+      "commonName": null,
+      "gbifKey": 5782799
+    },
+    {
+      "scientificName": "Myadestes woahensis",
+      "commonName": "'Amaui",
+      "gbifKey": 2490844
+    },
+    {
+      "scientificName": "Myadestes myadestinus",
+      "commonName": "Kama'o",
+      "gbifKey": 2490853
+    },
+    {
+      "scientificName": "Oleacina guadeloupensis",
+      "commonName": null,
+      "gbifKey": 5782968
+    },
+    {
+      "scientificName": "Turdus ravidus",
+      "commonName": "Grand Cayman Thrush",
+      "gbifKey": 2490777
+    },
+    {
+      "scientificName": "Zoothera terrestris",
+      "commonName": "Bonin Thrush",
+      "gbifKey": 2490909
+    },
+    {
+      "scientificName": "Gastrocopta ogasawarana",
+      "commonName": null,
+      "gbifKey": 5782783
+    },
+    {
+      "scientificName": "Gastrocopta chichijimana",
+      "commonName": null,
+      "gbifKey": 5782784
+    },
+    {
+      "scientificName": "Campolaemus perexilis",
+      "commonName": null,
+      "gbifKey": 5782782
+    },
+    {
+      "scientificName": "Microcolpia parreyssii",
+      "commonName": "Parreys' Thermal Snail",
+      "gbifKey": 10330460
+    },
+    {
+      "scientificName": "Gyrotoma walkeri",
+      "commonName": "Round Slitshell",
+      "gbifKey": 2301959
+    },
+    {
+      "scientificName": "Gyrotoma pyramidata",
+      "commonName": "Pyramid Slitshell",
+      "gbifKey": 2301961
+    },
+    {
+      "scientificName": "Gyrotoma pumila",
+      "commonName": "Ribbed Slitshell",
+      "gbifKey": 2301963
+    },
+    {
+      "scientificName": "Gyrotoma pagoda",
+      "commonName": "Pagoda Slitshell",
+      "gbifKey": 2301960
+    },
+    {
+      "scientificName": "Gyrotoma lewisii",
+      "commonName": "Striate Slitshell",
+      "gbifKey": 2301962
+    },
+    {
+      "scientificName": "Gyrotoma excisa",
+      "commonName": "Excised Slitshell",
+      "gbifKey": 2301958
+    },
+    {
+      "scientificName": "Elimia impressa",
+      "commonName": "Constricted Elimia",
+      "gbifKey": 2302010
+    },
+    {
+      "scientificName": "Elimia hartmaniana",
+      "commonName": "High-spired Elimia",
+      "gbifKey": 2302019
+    },
+    {
+      "scientificName": "Elimia fusiformis",
+      "commonName": "Fusiform Elimia",
+      "gbifKey": 2302228
+    },
+    {
+      "scientificName": "Elimia clausa",
+      "commonName": "Closed Elimia",
+      "gbifKey": 2302103
+    },
+    {
+      "scientificName": "Elimia vanuxemiana",
+      "commonName": "Cobble Elimia",
+      "gbifKey": 2302104
+    },
+    {
+      "scientificName": "Elimia gibbera",
+      "commonName": "Shouldered Elimia",
+      "gbifKey": 2302021
+    },
+    {
+      "scientificName": "Elimia lachryma",
+      "commonName": "Teardrop Elimia",
+      "gbifKey": 2302020
+    },
+    {
+      "scientificName": "Elimia macglameriana",
+      "commonName": "Wrinkled Elimia",
+      "gbifKey": 2302219
+    },
+    {
+      "scientificName": "Elimia pygmaea",
+      "commonName": "Pygmy Elimia",
+      "gbifKey": 2302092
+    },
+    {
+      "scientificName": "Elimia pupaeformis",
+      "commonName": "Pupa Elimia",
+      "gbifKey": 2302180
+    },
+    {
+      "scientificName": "Foudia delloni",
+      "commonName": "Reunion Fody",
+      "gbifKey": 7683255
+    },
+    {
+      "scientificName": "Elimia pilsbryi",
+      "commonName": "Rough-lined Elimia",
+      "gbifKey": 2302093
+    },
+    {
+      "scientificName": "Elimia laeta",
+      "commonName": "Ribbed Elimia",
+      "gbifKey": 2302060
+    },
+    {
+      "scientificName": "Elimia jonesi",
+      "commonName": "Hearty Elimia",
+      "gbifKey": 2302022
+    },
+    {
+      "scientificName": "Elimia brevis",
+      "commonName": "Short-spired Elimia",
+      "gbifKey": 2302017
+    },
+    {
+      "scientificName": "Athearnia crassa",
+      "commonName": "Boulder Snail",
+      "gbifKey": 5782553
+    },
+    {
+      "scientificName": "Leptoxis showalterii",
+      "commonName": "Coosa Rocksnail",
+      "gbifKey": 5192844
+    },
+    {
+      "scientificName": "Leptoxis torrefacta",
+      "commonName": "Squat Rocksnail",
+      "gbifKey": 5192856
+    },
+    {
+      "scientificName": "Leptoxis vittata",
+      "commonName": "Striped Rocksnail",
+      "gbifKey": 5192862
+    },
+    {
+      "scientificName": "Leptoxis ligata",
+      "commonName": "Rotund Rocksnail",
+      "gbifKey": 5192857
+    },
+    {
+      "scientificName": "Leptoxis lirata",
+      "commonName": "Lirate Rocksnail",
+      "gbifKey": 5192829
+    },
+    {
+      "scientificName": "Leptoxis occultata",
+      "commonName": "Bigmouth Rocksnail",
+      "gbifKey": 5192841
+    },
+    {
+      "scientificName": "Leptoxis formosa",
+      "commonName": "Maiden Rocksnail",
+      "gbifKey": 5192835
+    },
+    {
+      "scientificName": "Leptoxis foremanii",
+      "commonName": "Interrupted Rocksnail",
+      "gbifKey": 5192838
+    },
+    {
+      "scientificName": "Leptoxis compacta",
+      "commonName": "Oblong Rocksnail",
+      "gbifKey": 5192840
+    },
+    {
+      "scientificName": "Leptoxis clipeata",
+      "commonName": "Agate Rocksnail",
+      "gbifKey": 5192839
+    },
+    {
+      "scientificName": "Labidura herculeana",
+      "commonName": "St Helena Giant Earwig",
+      "gbifKey": 4394021
+    },
+    {
+      "scientificName": "Ectoedemia castaneae",
+      "commonName": "American Chestnut Moth",
+      "gbifKey": 1735848
+    },
+    {
+      "scientificName": "Zimmermannia phleophaga",
+      "commonName": "Phleophagan Chestnut Moth",
+      "gbifKey": 9617377
+    },
+    {
+      "scientificName": "Genophantis leahi",
+      "commonName": null,
+      "gbifKey": 1873341
+    },
+    {
+      "scientificName": "Coleophora leucochrysella",
+      "commonName": "Chestnut Casebearer Moth",
+      "gbifKey": 5121667
+    },
+    {
+      "scientificName": "Argyresthia castaneella",
+      "commonName": "Chestnut Ermine Moth",
+      "gbifKey": 5792058
+    },
+    {
+      "scientificName": "Coptotriche perplexa",
+      "commonName": "Chestnut Clearwing Moth",
+      "gbifKey": 12202566
+    },
+    {
+      "scientificName": "Eupithecia ogilviata",
+      "commonName": "Geometer Moth",
+      "gbifKey": 1983172
+    },
+    {
+      "scientificName": "Tritocleis microphylla",
+      "commonName": "Ola'a Peppered Looper Moth",
+      "gbifKey": 1990408
+    },
+    {
+      "scientificName": "Scotorythra megalophylla",
+      "commonName": "Kona Giant Looper Moth",
+      "gbifKey": 1956268
+    },
+    {
+      "scientificName": "Scotorythra nesiotes",
+      "commonName": "Ko'olau Giant Looper Moth",
+      "gbifKey": 1956270
+    },
+    {
+      "scientificName": "Pieris wollastoni",
+      "commonName": "Madeiran Large White",
+      "gbifKey": 4535297
+    },
+    {
+      "scientificName": "Levuana irridescens",
+      "commonName": "Levuana Moth",
+      "gbifKey": 1754324
+    },
+    {
+      "scientificName": "Helicoverpa minuta",
+      "commonName": "Minute Noctuid Moth",
+      "gbifKey": 1792585
+    },
+    {
+      "scientificName": "Helicoverpa confusa",
+      "commonName": "Confused Moth",
+      "gbifKey": 1792561
+    },
+    {
+      "scientificName": "Hypena newelli",
+      "commonName": "Hilo Noctuid Moth",
+      "gbifKey": 1798535
+    },
+    {
+      "scientificName": "Hypena laysanensis",
+      "commonName": "Laysan Dropseed Noctuid Moth",
+      "gbifKey": 1798574
+    },
+    {
+      "scientificName": "Hypena senicula",
+      "commonName": "Kaholuamano Noctuid Moth",
+      "gbifKey": 1798527
+    },
+    {
+      "scientificName": "Hypena plagiota",
+      "commonName": "Lovegrass Noctuid Moth",
+      "gbifKey": 1798618
+    },
+    {
+      "scientificName": "Amphicyclotulus guadeloupensis",
+      "commonName": null,
+      "gbifKey": 5783865
+    },
+    {
+      "scientificName": "Incerticyclus cinereus",
+      "commonName": null,
+      "gbifKey": 5783870
+    },
+    {
+      "scientificName": "Incerticyclus martinicensis",
+      "commonName": null,
+      "gbifKey": 5783869
+    },
+    {
+      "scientificName": "Cyclosurus mariei",
+      "commonName": null,
+      "gbifKey": 5784000
+    },
+    {
+      "scientificName": "Poodytes rufescens",
+      "commonName": "Chatham Fernbird",
+      "gbifKey": 10998194
+    },
+    {
+      "scientificName": "Cyclophorus horridulum",
+      "commonName": null,
+      "gbifKey": 5783977
+    },
+    {
+      "scientificName": "Deloneura immaculata",
+      "commonName": "Bashee River Buff",
+      "gbifKey": 1927738
+    },
+    {
+      "scientificName": "Quiscalus palustris",
+      "commonName": "Slender-billed Grackle",
+      "gbifKey": 2484176
+    },
+    {
+      "scientificName": "Plectostoma sciaphilum",
+      "commonName": null,
+      "gbifKey": 9078926
+    },
+    {
+      "scientificName": "Chambardia letourneuxi",
+      "commonName": null,
+      "gbifKey": 5782167
+    },
+    {
+      "scientificName": "Lepidochrysops hypopolia",
+      "commonName": "Lost Nimble Blue",
+      "gbifKey": 1927641
+    },
+    {
+      "scientificName": "Nesillas aldabrana",
+      "commonName": "Aldabra Warbler",
+      "gbifKey": 2492932
+    },
+    {
+      "scientificName": "Acrocephalus musae",
+      "commonName": "Leeward Islands Reed-warbler",
+      "gbifKey": 8270524
+    },
+    {
+      "scientificName": "Acrocephalus astrolabii",
+      "commonName": "Mangareva Reed-warbler",
+      "gbifKey": 8146708
+    },
+    {
+      "scientificName": "Acrocephalus nijoi",
+      "commonName": "Aguijan Reed-warbler",
+      "gbifKey": 7365548
+    },
+    {
+      "scientificName": "Acrocephalus yamashinae",
+      "commonName": "Pagan Reed-warbler",
+      "gbifKey": 6101020
+    },
+    {
+      "scientificName": "Acrocephalus luscinius",
+      "commonName": "Nightingale Reed-warbler",
+      "gbifKey": 7341216
+    },
+    {
+      "scientificName": "Epioblasma turgidula",
+      "commonName": "Turgid-blossom Pearly Mussel",
+      "gbifKey": 2288247
+    },
+    {
+      "scientificName": "Epioblasma sampsonii",
+      "commonName": "Wabash Riffleshell",
+      "gbifKey": 2288226
+    },
+    {
+      "scientificName": "Epioblasma propinqua",
+      "commonName": "Nearby Pearly Mussel",
+      "gbifKey": 2288224
+    },
+    {
+      "scientificName": "Epioblasma personata",
+      "commonName": "Fine-rayed Pearlymussel",
+      "gbifKey": 2288242
+    },
+    {
+      "scientificName": "Epioblasma lenior",
+      "commonName": "Narrow Catspaw",
+      "gbifKey": 2288231
+    },
+    {
+      "scientificName": "Epioblasma stewardsonii",
+      "commonName": "Steward's Pearly Mussel",
+      "gbifKey": 2288244
+    },
+    {
+      "scientificName": "Epioblasma lewisii",
+      "commonName": "Lewis Pearly Mussel",
+      "gbifKey": 2288222
+    },
+    {
+      "scientificName": "Epioblasma arcaeformis",
+      "commonName": "Sugarspoon",
+      "gbifKey": 2288216
+    },
+    {
+      "scientificName": "Epioblasma biemarginata",
+      "commonName": "Angled Riffleshell",
+      "gbifKey": 2288245
+    },
+    {
+      "scientificName": "Epioblasma flexuosa",
+      "commonName": "Arcuate Pearly Mussel",
+      "gbifKey": 2288220
+    },
+    {
+      "scientificName": "Epioblasma haysiana",
+      "commonName": "Acornshell",
+      "gbifKey": 2288201
+    },
+    {
+      "scientificName": "Alasmidonta robusta",
+      "commonName": "Carolina Elktoe",
+      "gbifKey": 10903004
+    },
+    {
+      "scientificName": "Alasmidonta wrightiana",
+      "commonName": "Ochlockonee Arcmussel",
+      "gbifKey": 2287892
+    },
+    {
+      "scientificName": "Alasmidonta mccordi",
+      "commonName": "Coosa Elktoe",
+      "gbifKey": 2287891
+    },
+    {
+      "scientificName": "Pipilo naufragus",
+      "commonName": "Bermuda Towhee",
+      "gbifKey": 7954726
+    },
+    {
+      "scientificName": "Lampsilis binominata",
+      "commonName": "Lined Pocketbook",
+      "gbifKey": 2288165
+    },
+    {
+      "scientificName": "Medionidus mcglameriae",
+      "commonName": "Tombigbee Moccasinshell",
+      "gbifKey": 2287907
+    },
+    {
+      "scientificName": "Libythea cinyras",
+      "commonName": "Mauritius Snout Butterfly",
+      "gbifKey": 1909874
+    },
+    {
+      "scientificName": "Unio madagascariensis",
+      "commonName": null,
+      "gbifKey": 10349739
+    },
+    {
+      "scientificName": "Unio malgachensis",
+      "commonName": null,
+      "gbifKey": 8808382
+    },
+    {
+      "scientificName": "Pleurobema johannis",
+      "commonName": "Alabama Pigtoe",
+      "gbifKey": 2288069
+    },
+    {
+      "scientificName": "Pleurobema nucleopsis",
+      "commonName": "Longnut",
+      "gbifKey": 2288057
+    },
+    {
+      "scientificName": "Pleurobema murrayense",
+      "commonName": "Coosa Pigtoe",
+      "gbifKey": 2288071
+    },
+    {
+      "scientificName": "Pleurobema perovatum",
+      "commonName": "Ovate Clubshell",
+      "gbifKey": 2288104
+    },
+    {
+      "scientificName": "Pleurobema hagleri",
+      "commonName": "Brown Pigtoe",
+      "gbifKey": 2288064
+    },
+    {
+      "scientificName": "Pleurobema flavidulum",
+      "commonName": "Yellow Pigtoe",
+      "gbifKey": 7962901
+    },
+    {
+      "scientificName": "Pleurobema bournianum",
+      "commonName": "Scioto Pigtoe",
+      "gbifKey": 8355663
+    },
+    {
+      "scientificName": "Pleurobema avellanum",
+      "commonName": "Hazel Pigtoe",
+      "gbifKey": 2288075
+    },
+    {
+      "scientificName": "Pleurobema altum",
+      "commonName": "Highnut",
+      "gbifKey": 2288097
+    },
+    {
+      "scientificName": "Pleurobema troschelianum",
+      "commonName": "Alabama Clubshell",
+      "gbifKey": 7525129
+    },
+    {
+      "scientificName": "Pleurobema verum",
+      "commonName": "True Pigtoe",
+      "gbifKey": 2288100
+    },
+    {
+      "scientificName": "Germainaia geayi",
+      "commonName": null,
+      "gbifKey": 7818925
+    },
+    {
+      "scientificName": "Cichlocolaptes mazarbarnetti",
+      "commonName": "Cryptic Treehunter",
+      "gbifKey": 7679876
+    },
+    {
+      "scientificName": "Philydor novaesi",
+      "commonName": "Alagoas Foliage-gleaner",
+      "gbifKey": 2485729
+    },
+    {
+      "scientificName": "Gerygone insularis",
+      "commonName": "Lord Howe Gerygone",
+      "gbifKey": 2486564
+    },
+    {
+      "scientificName": "Anthornis melanocephala",
+      "commonName": "Chatham Islands Bellbird",
+      "gbifKey": 8392323
+    },
+    {
+      "scientificName": "Melanoplus spretus",
+      "commonName": "Rocky Mountain Locust",
+      "gbifKey": 1699392
+    },
+    {
+      "scientificName": "Conozoa hyalina",
+      "commonName": "California Central Valley Grasshopper",
+      "gbifKey": 1712490
+    },
+    {
+      "scientificName": "Neduba extincta",
+      "commonName": "Antioch Dunes Shieldback Katydid",
+      "gbifKey": 1687626
+    },
+    {
+      "scientificName": "Pomarea fluxa",
+      "commonName": "Eiao Monarch",
+      "gbifKey": 5788739
+    },
+    {
+      "scientificName": "Pomarea nukuhivae",
+      "commonName": "Nuku Hiva Monarch",
+      "gbifKey": 5788741
+    },
+    {
+      "scientificName": "Pomarea pomarea",
+      "commonName": "Maupiti Monarch",
+      "gbifKey": 5788740
+    },
+    {
+      "scientificName": "Myiagra freycineti",
+      "commonName": "Guam Flycatcher",
+      "gbifKey": 2486647
+    },
+    {
+      "scientificName": "Drosophila lanaiensis",
+      "commonName": null,
+      "gbifKey": 5074382
+    },
+    {
+      "scientificName": "Campsicnemus mirabilis",
+      "commonName": "Ko`olau Spurwing Long-legged Fly",
+      "gbifKey": 1607107
+    }
+  ]
+}
